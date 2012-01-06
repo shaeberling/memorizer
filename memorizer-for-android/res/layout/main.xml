@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#1d2538">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+    android:weightSum="1">
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/choose_mode"
+    style="@style/H1"
+    />
+<TextView
+    style="@style/H2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/header_decimal"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/decimal_word"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/decimal_word"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/word_decimal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/word_decimal"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/practice_decimals"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/practice_decimals"
+/>
+
+
+<TextView
+    style="@style/H2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/header_binary"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/binary_word"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/binary_word"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/word_binary"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/word_binary"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/practice_binaries"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/practice_binaries"
+/>
+
+
+<TextView
+    style="@style/H2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/header_cards"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/card_word"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/card_word"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/word_card"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/word_card"
+/>
+<TextView
+    style="@style/H3"
+    android:id="@+id/practice_cards"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/practice_cards"
+/>
+</LinearLayout>
+
+</ScrollView>

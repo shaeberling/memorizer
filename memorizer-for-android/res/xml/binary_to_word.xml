@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<set>
+    <item from="000000" to="Sau" />
+    <item from="000001" to="Tee" />
+    <item from="000010" to="Noa" />
+    <item from="000011" to="Mai" />
+    <item from="000100" to="Reh" />
+    <item from="000101" to="Lee" />
+    <item from="000110" to="Ski" />
+    <item from="000111" to="Tee" />
+    <item from="001000" to="Fee" />
+    <item from="001001" to="Po" />
+
+    <item from="001010" to="Tasse" />
+    <item from="001011" to="Tod" />
+    <item from="001100" to="Tanne" />
+    <item from="001101" to="Team" />
+    <item from="001110" to="Teer" />
+    <item from="001111" to="Tal" />
+    <item from="010000" to="Tasche" />
+    <item from="010001" to="Theke" />
+    <item from="010010" to="Taufe" />
+    <item from="010011" to="Taube" />
+
+    <item from="010100" to="Nase" />
+    <item from="010101" to="Natter" />
+    <item from="010110" to="Nonne" />
+    <item from="010111" to="Nemo" />
+    <item from="011000" to="Narr" />
+    <item from="011001" to="Nil" />
+    <item from="011010" to="Naschschrank" />
+    <item from="011011" to="Nike" />
+    <item from="011100" to="Neffen" />
+    <item from="011101" to="Nappa" />
+
+    <item from="011110" to="Maus" />
+    <item from="011111" to="Matte" />
+    <item from="100000" to="Mond" />
+    <item from="100001" to="Mama" />
+    <item from="100010" to="Meer" />
+    <item from="100011" to="Müll" />
+    <item from="100100" to="Muschel" />
+    <item from="100101" to="Mac" />
+    <item from="100110" to="Mafia" />
+    <item from="100111" to="Mappe" />
+
+    <item from="101000" to="Rose" />
+    <item from="101001" to="Ratte" />
+    <item from="101010" to="[TODO]" />
+    <item from="101011" to="Rum" />
+    <item from="101100" to="Rohr" />
+    <item from="101101" to="Rolle" />
+    <item from="101110" to="Rauch" />
+    <item from="101111" to="Rock" />
+    <item from="110000" to="Reifen" />
+    <item from="110001" to="Raupe" />
+
+    <item from="110010" to="Lasso" />
+    <item from="110011" to="Latte" />
+    <item from="110100" to="Leine" />
+    <item from="110101" to="Leim" />
+    <item from="110110" to="Leier" />
+    <item from="110111" to="Lila" />
+    <item from="111000" to="Loch" />
+    <item from="111001" to="Lack" />
+    <item from="111010" to="Lava" />
+    <item from="111011" to="Lippen" />
+
+    <item from="111100" to="Schuss" />
+    <item from="111101" to="Schutt" />
+    <item from="111110" to="Schiene" />
+    <item from="111111" to="Schaum" />
+
+</set>

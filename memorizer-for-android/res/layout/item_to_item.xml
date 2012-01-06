@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#1d2538">
+  <TextView
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/title"
+      android:gravity="center_horizontal"
+      style="@style/ITEM_TO_ITEM_TITLE"
+    />
+  <LinearLayout
+      android:orientation="vertical"
+      android:layout_width="wrap_content"
+      android:layout_height="fill_parent"
+      android:layout_gravity="center_horizontal"
+      android:gravity="center_vertical">
+      <TextView
+          android:id="@+id/from_item"
+          android:layout_width="fill_parent"
+          android:layout_height="0dp"
+          android:layout_weight="1"
+          android:gravity="center_vertical|center_horizontal"
+          style="@style/ITEM"
+          android:text="FROM ITEM FOO BAR"
+      />
+      <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="fill_parent"
+          android:layout_height="0dp"
+          android:layout_weight="1"
+          android:gravity="center_vertical|center_horizontal">
+          <TextView
+              android:id="@+id/solution_from_item"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              style="@style/SMALL_ITEM"
+              android:gravity="center_horizontal"
+              android:text="Solution from item"
+          />
+          <TextView
+              android:id="@+id/solution_to_item"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              style="@style/ITEM"
+              android:gravity="center_horizontal"
+              android:text="SOLUTION TO ITEM"
+          />
+      </LinearLayout>
+  </LinearLayout>
+</LinearLayout>

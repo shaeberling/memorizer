@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<set>
+    <item from="00" to="Sau" />
+    <item from="01" to="Tee" />
+    <item from="02" to="Noa" />
+    <item from="03" to="Mai" />
+    <item from="04" to="Reh" />
+    <item from="05" to="Lee" />
+    <item from="06" to="Ski" />
+    <item from="07" to="Tee" />
+    <item from="08" to="Fee" />
+    <item from="09" to="Po" />
+
+    <item from="10" to="Tasse" />
+    <item from="11" to="Tod" />
+    <item from="12" to="Tanne" />
+    <item from="13" to="Team" />
+    <item from="14" to="Teer" />
+    <item from="15" to="Tal" />
+    <item from="16" to="Tasche" />
+    <item from="17" to="Theke" />
+    <item from="18" to="Taufe" />
+    <item from="19" to="Taube" />
+
+    <item from="20" to="Nase" />
+    <item from="21" to="Natter" />
+    <item from="22" to="Nonne" />
+    <item from="23" to="Nemo" />
+    <item from="24" to="Narr" />
+    <item from="21" to="Nil" />
+    <item from="26" to="Naschschrank" />
+    <item from="27" to="Nike" />
+    <item from="28" to="Neffen" />
+    <item from="29" to="Nappa" />
+
+    <item from="30" to="Maus" />
+    <item from="31" to="Matte" />
+    <item from="32" to="Mond" />
+    <item from="33" to="Mama" />
+    <item from="34" to="Meer" />
+    <item from="35" to="Müll" />
+    <item from="36" to="Muschel" />
+    <item from="37" to="Mac" />
+    <item from="38" to="Mafia" />
+    <item from="39" to="Mappe" />
+
+    <item from="40" to="Rose" />
+    <item from="41" to="Ratte" />
+    <item from="42" to="[TODO]" />
+    <item from="43" to="Rum" />
+    <item from="44" to="Rohr" />
+    <item from="45" to="Rolle" />
+    <item from="46" to="Rauch" />
+    <item from="47" to="Rock" />
+    <item from="48" to="Reifen" />
+    <item from="49" to="Raupe" />
+
+    <item from="50" to="Lasso" />
+    <item from="51" to="Latte" />
+    <item from="52" to="Leine" />
+    <item from="53" to="Leim" />
+    <item from="54" to="Leier" />
+    <item from="55" to="Lila" />
+    <item from="56" to="Loch" />
+    <item from="57" to="Lack" />
+    <item from="58" to="Lava" />
+    <item from="59" to="Lippen" />
+
+    <item from="60" to="Schuss" />
+    <item from="61" to="Schutt" />
+    <item from="62" to="Schiene" />
+    <item from="63" to="Schaum" />
+    <item from="64" to="Schere" />
+    <item from="65" to="Schal" />
+    <item from="66" to="Schach" />
+    <item from="67" to="Scheck" />
+    <item from="68" to="Schaf" />
+    <item from="69" to="Scheibe" />
+
+    <item from="70" to="Kasse" />
+    <item from="71" to="Kette" />
+    <item from="72" to="Kanne" />
+    <item from="73" to="Kamm" />
+    <item from="74" to="Karre" />
+    <item from="75" to="Kelle" />
+    <item from="76" to="Koch" />
+    <item from="77" to="Khakzar" />
+    <item from="78" to="Kaffee" />
+    <item from="79" to="Kappe" />
+
+    <item from="80" to="Fass" />
+    <item from="81" to="Fett" />
+    <item from="82" to="Fahne" />
+    <item from="83" to="[TODO]" />
+    <item from="84" to="Fury" />
+    <item from="85" to="Falle" />
+    <item from="86" to="Fisch" />
+    <item from="87" to="Fackel" />
+    <item from="88" to="[TODO]" />
+    <item from="89" to="Fieber" />
+
+    <item from="90" to="Bus" />
+    <item from="91" to="Bett" />
+    <item from="92" to="Bahn" />
+    <item from="93" to="Baum" />
+    <item from="94" to="Bier" />
+    <item from="95" to="Ball" />
+    <item from="96" to="Buch" />
+    <item from="97" to="Backe" />
+    <item from="98" to="Bifi" />
+    <item from="99" to="Papa" />
+</set>

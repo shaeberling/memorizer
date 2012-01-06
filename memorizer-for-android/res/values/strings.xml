@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mindmaster</string>
+    <string name="choose_mode">Choose a mode</string>
+    <string name="header_decimal">DECIMALS</string>
+    <string name="decimal_word">1. DECIMAL to WORD</string>
+    <string name="word_decimal">2. WORD to DECIMAL</string>
+    <string name="practice_decimals">3. Practice DECIMALS</string>
+
+    <string name="header_binary">BINARIES</string>
+    <string name="binary_word">4. BINARY to WORD</string>
+    <string name="word_binary">5. WORD to BINARY</string>
+    <string name="practice_binaries">6. Practice BINARIES</string>
+
+    <string name="header_cards">CARDS</string>
+    <string name="card_word">7. CARD to WORD</string>
+    <string name="word_card">8. WORD to CARD</string>
+    <string name="practice_cards">9. Practice CARDS</string>
+</resources>
