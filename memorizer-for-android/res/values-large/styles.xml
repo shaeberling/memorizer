@@ -5,7 +5,7 @@
         <item name="android:gravity">center_horizontal</item>
         <item name="android:layout_marginBottom">4px</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">38sp</item>
+        <item name="android:textSize">54sp</item>
     </style>
 
     <style name="H2" parent="@android:style/TextAppearance.Medium">
@@ -13,14 +13,14 @@
         <item name="android:layout_marginTop">18px</item>
         <item name="android:layout_marginBottom">5px</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">26sp</item>
+        <item name="android:textSize">44sp</item>
     </style>
 
     <style name="H3" parent="@android:style/TextAppearance.Medium">
         <item name="android:textColor">@drawable/selection</item>
         <item name="android:layout_margin">4px</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">18sp</item>
+        <item name="android:textSize">26sp</item>
     </style>
 
     <style name="ITEM_TO_ITEM_TITLE" parent="@style/H2">
@@ -30,11 +30,11 @@
     <style name="ITEM" parent="@android:style/TextAppearance.Medium">
         <item name="android:textColor">#fff</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">56sp</item>
+        <item name="android:textSize">66sp</item>
     </style>
     <style name="SMALL_ITEM" parent="@android:style/TextAppearance.Medium">
         <item name="android:textColor">#9fff</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">36sp</item>
+        <item name="android:textSize">46sp</item>
     </style>
 </resources>
